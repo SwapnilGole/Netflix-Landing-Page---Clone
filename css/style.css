@@ -190,6 +190,14 @@ a {
   top: 0;
   transform: translate(-88.1%, -20%);
 }
+/* extra added  */
+.section-one .img-box #vid {
+  width: 350px;
+}
+.section-one .img-box img {
+  width: 465px;
+}
+/* extra added  */
 
 /* section three */
 .section-three .container {
@@ -427,6 +435,15 @@ a {
   .section-four .text-box {
     width: 30%;
   }
+  /* .section-one .img-box {
+    width: 40%;
+    position: relative;
+  }
+  .section-one .img-box img {
+    position: absolute;
+    top: 0;
+    transform: translate(-88.1%, -20%);
+  } */
 }
 @media only screen and (max-width: 1620px) {
   .section-one .img-box img {
