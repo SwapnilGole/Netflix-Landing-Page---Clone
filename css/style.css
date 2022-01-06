@@ -410,7 +410,7 @@ a {
     /* padding: 4rem 3rem; */
   }
   .section-one .container {
-    padding: 6rem 3rem;
+    padding: 8rem 3rem;
   }
   .section-two .container {
     padding: 1rem 3rem;
@@ -431,6 +431,9 @@ a {
 @media only screen and (max-width: 1620px) {
   .section-one .img-box img {
     transform: translate(-13%, -20%);
+  }
+  .section-one .container {
+    padding: 7rem 3rem;
   }
 }
 @media only screen and (max-width: 1450px) {
